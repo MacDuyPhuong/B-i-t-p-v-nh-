@@ -1,0 +1,19 @@
+.row {
+    display: flex;
+}
+
+.container {
+    /* background: red; */
+    width: 40%;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.Employee {
+    display: inline-block;
+    color: red;
+}
+
+.olala {
+    padding-left: 115px;
+}

@@ -1,0 +1,18 @@
+.container {
+    /* background: red; */
+    width: 300px;
+    margin: 0 auto;
+}
+
+.text {
+    color: red;
+    padding-left: 40px;
+}
+
+.HTML {
+    padding-left: 13px;
+}
+
+.Output {
+    padding-left: 33px;
+}

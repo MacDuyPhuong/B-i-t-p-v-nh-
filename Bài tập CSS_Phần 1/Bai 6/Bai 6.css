@@ -1,0 +1,39 @@
+.container {
+    /*background: red;*/
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.logo {
+    background: #F4F4F4;
+}
+
+.learning {
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.beginner {
+    padding-left: 165px;
+    padding-bottom: 50px;
+}
+
+.trang-tri {
+    background: #C9C9C9;
+    height: 5px;
+    margin-top: -17px;
+    margin-bottom: 25px;
+}
+
+.name {
+    padding-left: 100px;
+}
+
+.background {
+    padding-left: 150px;
+}
+
+.submit {
+    padding-left: 210px;
+}

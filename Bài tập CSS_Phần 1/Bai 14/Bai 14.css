@@ -1,0 +1,25 @@
+.container {
+    /* background: red; */
+    width: 35%;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.personal {
+    color: #0A57DE;
+}
+
+.comments-1 {
+    color: #0A57DE;
+}
+.table-1 {
+    margin-left: 30px ;
+}
+
+.table-2 {
+    margin-left: 30px ;
+}
+
+.comments-2 {
+    margin-top: -35px;
+}

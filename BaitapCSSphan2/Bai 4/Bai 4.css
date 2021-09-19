@@ -1,0 +1,66 @@
+.container {
+    border: 2px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.header {
+    border: 1px solid #7093D2;
+    width: 632px;
+    margin-left: 18px;
+    margin-top: 20px;
+    height: 50px;
+}
+
+center {
+    margin-top: -10px;
+}
+
+p {
+    margin: 0;
+}
+
+.content {
+    width: 630px;
+    margin-left: 18px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.row {
+    display: flex;
+}
+
+
+.menu {
+    border: 1px solid #7093D2;
+    width: 200px;
+    height: 150px;
+}
+
+.the-p {
+    padding-top: 15px;
+}
+
+.some-text {
+    border: 1px solid #7093D2;
+    width: 420px;
+    height: 45px;
+    margin-left: 10px;
+}
+
+.an-image {
+    border: 1px solid #7093D2;
+    width: 50%;
+    height: 93px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.more-text {
+    border: 1px solid #7093D2;
+    width: 50%;
+    height: 93px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
